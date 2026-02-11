@@ -1,53 +1,44 @@
+## Bonjour👋 I'm **Vivek**
+ **Project-driven learner** and passionate about building scalable, real-world applications.
 
-
-## 👋 About Me
-
-Bonjour, I’m **Vivek Singh** , **project-driven learner** passionate about building scalable, real-world applications.
+<img align="right" style="max-width: 400px; width: 100%; margin-left: 20px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/boom.gif" />
 
 - 🌱 Currently focused on **real-time application development**
-  <img align="right" width="330"
-     src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/boom.gif" />
 - 🚀 Actively building **full-stack projects** with clean architecture
-
 - 💬 Comfortable discussing **MERN, REST APIs, authentication, and backend logic**
-- ⚡ Fun fact: *“It works on my machine”* — Favourite Line
+- ⚡ Fun fact: *"It works on my machine"* — Favourite Line
 
+<br clear="right"/>
 
-
-
-
-
-
+---
 
 ## 🌐 Connect With Me
 
+<img align="left" style="max-width: 400px; width: 100%; margin-right: 50px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/fist-bump-shin-asakura.gif" />
 
+<div>
+<br/><br/><br/><br/>
 
-<img align="left" width="330"
-     style="margin-right:30px; margin-bottom:8px;"
-     src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/fist-bump-shin-asakura.gif" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-singh-1a8a57257)
+&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/vivek_singh1212)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vs7492403@gmail.com)
+
+</div>
 
 <br clear="left"/>
 
-
-
 ---
-
-
----
-
 
 ## 💻 Tech Stack
+
+<img align="right" style="max-width: 400px; width: 100%; margin-left: 20px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/fast.gif" />
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<img align="right" width="330"
-     src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/fast.gif" />
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
@@ -71,20 +62,20 @@ Bonjour, I’m **Vivek Singh** , **project-driven learner** passionate about bui
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+<br clear="right"/>
+
 ---
 
 ## 📊 GitHub Analytics
 
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=viveksingh62&theme=dark)
-
 
 ---
 
 ### ✨ Thought of the Day
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viveksingh62&label=Profile%20Views&color=0e75b6&style=flat)
-
