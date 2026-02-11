@@ -17,7 +17,6 @@
 
 <img align="left" style="max-width: 400px; width: 100%; margin-right: 50px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/fist-bump-shin-asakura.gif" />
 
-<div>
 <br/><br/><br/><br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,8 +25,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/vivek_singh1212)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vs7492403@gmail.com)
-
-</div>
 
 <br clear="left"/>
 
