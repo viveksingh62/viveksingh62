@@ -1,6 +1,6 @@
 ## Bonjour👋 I'm **Vivek**
 
-<img align="right" style="max-width: 350px; width: 100%; margin-left: 20px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/boom.gif" />
+<img align="right" style="max-width: 350px; width: 80%; margin-left: 20px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/boom.gif" />
 
 **Project-driven learner** passionate about building scalable, real-world applications.
 
@@ -15,7 +15,7 @@
 
 ## 🌐 Connect With Me
 
-<img align="left" style="max-width: 400px; width: 100%; margin-right: 50px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/fist-bump-shin-asakura.gif" />
+<img align="left" style="max-width: 400px; width: 80%; margin-right: 50px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/fist-bump-shin-asakura.gif" />
 
 <br/><br/><br/><br/>
 
