@@ -2,25 +2,40 @@
 
 ## 👋 About Me
 
-Hi, I’m **Vivek Singh** — **project-driven learner** passionate about building scalable, real-world applications.
+Bonjour, I’m **Vivek Singh** , **project-driven learner** passionate about building scalable, real-world applications.
 
 - 🌱 Currently focused on **real-time application development**
-  <img align="right" width="300"
+  <img align="right" width="330"
      src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/boom.gif" />
 - 🚀 Actively building **full-stack projects** with clean architecture
 
 - 💬 Comfortable discussing **MERN, REST APIs, authentication, and backend logic**
-- ⚡ Fun fact: *“It works on my machine”* — every developer’s famous last words
+- ⚡ Fun fact: *“It works on my machine”* — Favourite Line
 
 
 
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
+<img align="left" width="330"
+     style="margin-right:30px; margin-bottom:8px;"
+     src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/fist-bump-shin-asakura.gif" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-singh-1a8a57257)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vs7492403@gmail.com)
 
+<br clear="left"/>
+
+
+
 ---
+
+
+---
+
 
 ## 💻 Tech Stack
 
