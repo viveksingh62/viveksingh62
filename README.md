@@ -1,7 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm Vivek  <br>💻 MERN Stack Developer | Project-driven learner  <br><br>🌱 Currently learning how to build real-time applications<br>🚀 Building real-world full-stack applications  <br>💬 Ask me about MERN, APIs & backend logic  <br>⚡ Fun fact: “It works on my machine” is my second favorite sentence<br>
 
+![snake animation](https://raw.githubusercontent.com/viveksingh62/viveksingh62/output/github-contribution-grid-snake-dark.svg)
 
+Done. That’s it.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-singh-1a8a57257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vs7492403@gmail.com) 
 
