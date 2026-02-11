@@ -20,7 +20,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=viveksingh62&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/viveksingh62/viveksingh62/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
