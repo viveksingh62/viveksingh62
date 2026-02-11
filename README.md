@@ -1,15 +1,19 @@
+
+
 ## 👋 About Me
 
 Hi, I’m **Vivek Singh** — **project-driven learner** passionate about building scalable, real-world applications.
 
-![My GIF](./tp.gif)
-
 - 🌱 Currently focused on **real-time application development**
+  <img align="right" width="300"
+     src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/boom.gif" />
 - 🚀 Actively building **full-stack projects** with clean architecture
+
 - 💬 Comfortable discussing **MERN, REST APIs, authentication, and backend logic**
 - ⚡ Fun fact: *“It works on my machine”* — every developer’s famous last words
 
----
+
+
 
 ## 🌐 Connect With Me
 
