@@ -1,6 +1,8 @@
 ## 👋 About Me
 
-Hi, I’m **Vivek Singh** — a **MERN Stack Developer** and **project-driven learner** passionate about building scalable, real-world applications.
+Hi, I’m **Vivek Singh** — **project-driven learner** passionate about building scalable, real-world applications.
+
+![My GIF](./tp.gif)
 
 - 🌱 Currently focused on **real-time application development**
 - 🚀 Actively building **full-stack projects** with clean architecture
