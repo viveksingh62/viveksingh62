@@ -1,7 +1,8 @@
 ## Bonjour👋 I'm **Vivek**
- **Project-driven learner** and passionate about building scalable, real-world applications.
 
-<img align="right" style="max-width: 400px; width: 100%; margin-left: 20px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/boom.gif" />
+<img align="right" style="max-width: 350px; width: 100%; margin-left: 20px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/viveksingh62/viveksingh62/main/boom.gif" />
+
+**Project-driven learner** passionate about building scalable, real-world applications.
 
 - 🌱 Currently focused on **real-time application development**
 - 🚀 Actively building **full-stack projects** with clean architecture
