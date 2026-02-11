@@ -59,4 +59,5 @@ Hi, I’m **Vivek Singh** — a **MERN Stack Developer** and **project-driven le
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=viveksingh62&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=viveksingh62&label=Profile%20Views&color=0e75b6&style=flat)
+
