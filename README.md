@@ -48,9 +48,9 @@ Hi, I’m **Vivek Singh** — a **MERN Stack Developer** and **project-driven le
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveksingh62&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveksingh62&show_icons=true&theme=default&cache_seconds=1800)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=viveksingh62&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksingh62&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveksingh62&layout=compact&cache_seconds=1800)
 
 ---
 
